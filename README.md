@@ -2,7 +2,7 @@
 
 具有`Function Calling`能力的大语言模型，它允许开发者将外部工具（如 API、函数等）集成到大模型应用程序中，并通过简单的接口进行调用。
 
-`function-calling-parser` 是一个用于解析和调用外部工具的 Python 库，为用户在调用`Function Calling API`时提供了一系列简化流程的工具和方法，。
+`function-calling-parser` 是一个用于解析和调用外部工具的 Python 库，为用户在调用`Function Calling API`时提供了一系列简化流程的工具和方法。
 
 ## 项目功能
 
